@@ -1,0 +1,10 @@
+c:\users\yi\documents\visual studio 2012\Projects\OlineShoppingStore\OnlineShoppingStore.Domain\bin\Debug\OnlineShoppingStore.Domain.dll.config
+c:\users\yi\documents\visual studio 2012\Projects\OlineShoppingStore\OnlineShoppingStore.Domain\bin\Debug\OnlineShoppingStore.Domain.dll
+c:\users\yi\documents\visual studio 2012\Projects\OlineShoppingStore\OnlineShoppingStore.Domain\bin\Debug\OnlineShoppingStore.Domain.pdb
+c:\users\yi\documents\visual studio 2012\Projects\OlineShoppingStore\OnlineShoppingStore.Domain\bin\Debug\EntityFramework.dll
+c:\users\yi\documents\visual studio 2012\Projects\OlineShoppingStore\OnlineShoppingStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\yi\documents\visual studio 2012\Projects\OlineShoppingStore\OnlineShoppingStore.Domain\bin\Debug\EntityFramework.xml
+c:\users\yi\documents\visual studio 2012\Projects\OlineShoppingStore\OnlineShoppingStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\yi\documents\visual studio 2012\Projects\OlineShoppingStore\OnlineShoppingStore.Domain\obj\Debug\OnlineShoppingStore.Domain.csprojResolveAssemblyReference.cache
+c:\users\yi\documents\visual studio 2012\Projects\OlineShoppingStore\OnlineShoppingStore.Domain\obj\Debug\OnlineShoppingStore.Domain.dll
+c:\users\yi\documents\visual studio 2012\Projects\OlineShoppingStore\OnlineShoppingStore.Domain\obj\Debug\OnlineShoppingStore.Domain.pdb
