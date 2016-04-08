@@ -12,6 +12,6 @@
 + Page of Cart and Check out
 ![web2](https://cloud.githubusercontent.com/assets/7539833/14395340/aac429b4-fd96-11e5-986a-2fc353c5d88f.png)
 
-+ Page of completint the order
++ Page of completing the order
 ![web3](https://cloud.githubusercontent.com/assets/7539833/14395354/bddc6386-fd96-11e5-8fe6-2f26cf8a3142.png)
 
