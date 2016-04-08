@@ -1,11 +1,9 @@
 # Online-Shopping-Store
-### Main function
 
-* Read the data from MySql
-   
-   Can view in the mobile
-   
-   can email the user order summary
++ Main function
+- Read the data from MySql
+- Can view in the mobile
+-  can email the user order summary
 + Homepage of the web online shopping store
 ![web1](https://cloud.githubusercontent.com/assets/7539833/14395318/8acb430e-fd96-11e5-8eb4-81e1135282d7.png)
 
